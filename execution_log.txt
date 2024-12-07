@@ -1,0 +1,8 @@
+run;example_function;hello_world 11.9209289551
+run;example_function;some_math 0.9536743164
+run;example_function;hello_world 3.8146972656
+run;example_function 181.4365386963
+run;another_function;hello_world 6.6757202148
+run;another_function 620.8419799805
+run;some_math 0.2384185791
+run 806.5700531006
